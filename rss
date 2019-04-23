@@ -4,14 +4,15 @@
         <description><![CDATA[小白视角下的 Java]]></description>
         <link>https://easterland.me/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Apr 2019 10:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2019 02:42:26 GMT</lastBuildDate>
         <atom:link href="https://easterland.me/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[easterfan]]></author>
         <managingEditor><![CDATA[easterfan@163.com]]></managingEditor>
         <webMaster><![CDATA[easterfan@163.com]]></webMaster>
         <category><![CDATA[gitbook]]></category>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[写在前面]]></title>
+            <description><![CDATA[这是一个学了三年 Java 依然不得门路的小白维护的笔记型开源项目，截止到2019年4月22日，站在庞大的 Java 体系面前，作者仍有一种门外汉的愧疚感]]></description>
             <link>https://easterland.me/</link>
             <guid isPermaLink="true">https://easterland.me/</guid>
             <dc:creator><![CDATA[easterfan]]></dc:creator>
