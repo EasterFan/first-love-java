@@ -4,7 +4,7 @@
         <description><![CDATA[小白视角下的 Java]]></description>
         <link>https://easterland.me/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Apr 2019 02:50:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2019 12:26:57 GMT</lastBuildDate>
         <atom:link href="https://easterland.me/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[easterfan]]></author>
         <managingEditor><![CDATA[easterfan@163.com]]></managingEditor>
@@ -24,13 +24,13 @@
             <dc:creator><![CDATA[easterfan]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[Java 可以做什么]]></title>
             <link>https://easterland.me/Step I - Java基础/01-Java概述.html</link>
             <guid isPermaLink="true">https://easterland.me/Step I - Java基础/01-Java概述.html</guid>
             <dc:creator><![CDATA[easterfan]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[基本组成（关键字 标识符 变量常量 方法 运算符 注释）]]></title>
             <link>https://easterland.me/Step I - Java基础/02-Java基本语法.html</link>
             <guid isPermaLink="true">https://easterland.me/Step I - Java基础/02-Java基本语法.html</guid>
             <dc:creator><![CDATA[easterfan]]></dc:creator>
